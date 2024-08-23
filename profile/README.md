@@ -1,1 +1,1 @@
-![AI Protocol](AI%20Protocol%20Github.png)
+![AI Protocol](AI_Protocol_Github.png)
