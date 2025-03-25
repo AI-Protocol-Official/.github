@@ -1,1 +1,1 @@
-![AI Protocol](AI_Protocol_Github_Cover.png)
+![AI Protocol](New_Herobanner.png)
